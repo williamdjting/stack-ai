@@ -1,4 +1,4 @@
-StackUp AI
+## StackUp AI
 AI-Powered Job Tracker & Resume Builder
 
 StackUp AI is a modern web application that helps users manage job applications and automatically generate tailored resumes and cover letters using AI. Built with TypeScript, React, Next.js, Tailwind CSS, and powered by Supabase (for authentication & data) and Vercel (for deployment).
